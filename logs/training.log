@@ -1,0 +1,1122 @@
+2026-06-08 10:55:49 | INFO | __main__ | Application started
+2026-06-08 11:00:57 | INFO | __main__ | Application started
+2026-06-08 11:01:01 | INFO | src.train | Training pipeline started
+2026-06-08 11:01:01 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-08 11:01:03 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-08 11:01:03 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-08 11:01:04 | INFO | src.data | Normalization completed
+2026-06-08 11:01:04 | INFO | src.model | Building CNN model
+2026-06-08 11:01:04 | INFO | src.model | Model architecture created
+2026-06-08 11:01:04 | INFO | src.train | Model compilation complete
+2026-06-08 11:01:04 | INFO | src.train | Training started
+2026-06-08 11:05:35 | INFO | src.train | Model saved successfully
+2026-06-08 11:05:36 | INFO | __main__ | Application finished
+2026-06-08 23:51:37 | INFO | __main__ | Application started
+2026-06-08 23:51:41 | INFO | src.train | Training pipeline started
+2026-06-08 23:51:41 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-08 23:51:43 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-08 23:51:43 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-08 23:51:44 | INFO | src.data | Normalization completed
+2026-06-08 23:51:44 | INFO | src.model | Building CNN model
+2026-06-08 23:51:45 | INFO | src.model | Model architecture created
+2026-06-08 23:51:45 | INFO | src.train | Model compilation complete
+2026-06-08 23:51:45 | INFO | src.train | Training started
+2026-06-08 23:55:57 | INFO | src.train | Model saved successfully
+2026-06-08 23:55:57 | INFO | __main__ | Application finished
+2026-06-09 00:17:20 | INFO | __main__ | Application started
+2026-06-09 00:17:28 | INFO | src.train | Training pipeline started
+2026-06-09 00:17:28 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 00:17:32 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 00:17:32 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 00:17:33 | INFO | src.data | Normalization completed
+2026-06-09 00:17:33 | INFO | src.model | Building CNN model
+2026-06-09 00:17:33 | INFO | src.model | Model architecture created
+2026-06-09 00:17:33 | INFO | src.train | Model compilation complete
+2026-06-09 00:17:33 | INFO | src.train | Training started
+2026-06-09 00:22:00 | INFO | src.train | Model saved successfully
+2026-06-09 00:22:00 | INFO | __main__ | Application finished
+2026-06-09 00:30:22 | INFO | __main__ | Application started
+2026-06-09 00:30:29 | INFO | src.train | Training pipeline started
+2026-06-09 00:30:29 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 00:30:31 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 00:30:31 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 00:30:32 | INFO | src.data | Normalization completed
+2026-06-09 00:30:32 | INFO | src.model | Building CNN model
+2026-06-09 00:30:32 | INFO | src.model | Model architecture created
+2026-06-09 00:30:32 | INFO | src.train | Model compilation complete
+2026-06-09 00:30:32 | INFO | src.train | Training started
+2026-06-09 00:35:49 | INFO | src.train | Model saved successfully
+2026-06-09 00:37:38 | INFO | __main__ | Application started
+2026-06-09 00:37:50 | INFO | src.evaluate | Evaluation started
+2026-06-09 00:37:50 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 00:37:53 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 00:37:53 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 00:37:54 | INFO | src.data | Normalization completed
+2026-06-09 00:37:56 | INFO | src.evaluate | Classification report generated
+2026-06-09 00:37:56 | INFO | src.evaluate | Evaluation completed
+2026-06-09 00:39:59 | INFO | __main__ | Application started
+2026-06-09 00:40:06 | INFO | src.evaluate | Evaluation started
+2026-06-09 00:40:06 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 00:40:08 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 00:40:08 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 00:40:09 | INFO | src.data | Normalization completed
+2026-06-09 00:40:11 | INFO | src.evaluate | Classification report generated
+2026-06-09 00:40:11 | INFO | src.evaluate | Evaluation completed
+2026-06-09 00:40:11 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-09 00:40:11 | INFO | src.predict | Model loaded successfully
+2026-06-09 00:53:18 | INFO | __main__ | Application started
+2026-06-09 00:53:27 | INFO | __main__ | Application started
+2026-06-09 00:53:36 | INFO | __main__ | Application started
+2026-06-09 00:53:45 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 00:53:47 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 00:53:47 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 00:53:48 | INFO | src.data | Normalization completed
+2026-06-09 00:53:48 | INFO | src.evaluate | Evaluation started
+2026-06-09 00:53:48 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 00:53:50 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 00:53:50 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 00:53:52 | INFO | src.data | Normalization completed
+2026-06-09 00:53:55 | INFO | src.evaluate | Classification report generated
+2026-06-09 00:53:55 | INFO | src.evaluate | Evaluation completed
+2026-06-09 00:53:55 | INFO | src.train | Training pipeline started
+2026-06-09 00:53:55 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 00:53:57 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 00:53:57 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 00:53:58 | INFO | src.data | Normalization completed
+2026-06-09 00:53:58 | INFO | src.model | Building CNN model
+2026-06-09 00:53:58 | INFO | src.model | Model architecture created
+2026-06-09 00:53:58 | INFO | src.train | Model compilation complete
+2026-06-09 00:53:58 | INFO | src.train | Training started
+2026-06-09 00:56:07 | INFO | __main__ | Application started
+2026-06-09 00:56:16 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 00:56:18 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 00:56:18 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 00:56:19 | INFO | src.data | Normalization completed
+2026-06-09 00:56:19 | INFO | src.evaluate | Evaluation started
+2026-06-09 00:56:19 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 00:56:21 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 00:56:21 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 00:56:22 | INFO | src.data | Normalization completed
+2026-06-09 00:56:25 | INFO | src.evaluate | Classification report generated
+2026-06-09 00:56:25 | INFO | src.evaluate | Evaluation completed
+2026-06-09 00:56:25 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-09 00:56:25 | INFO | src.predict | Model loaded successfully
+2026-06-09 00:56:27 | INFO | src.predict | Running prediction
+2026-06-09 00:56:27 | INFO | src.predict | Prediction=cat, Confidence=0.8453
+2026-06-09 00:59:23 | INFO | __main__ | Application started
+2026-06-09 00:59:31 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 00:59:33 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 00:59:33 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 00:59:34 | INFO | src.data | Normalization completed
+2026-06-09 00:59:34 | INFO | src.evaluate | Evaluation started
+2026-06-09 00:59:34 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 00:59:36 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 00:59:36 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 00:59:37 | INFO | src.data | Normalization completed
+2026-06-09 00:59:39 | INFO | src.evaluate | Classification report generated
+2026-06-09 00:59:39 | INFO | src.evaluate | Evaluation completed
+2026-06-09 00:59:39 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-09 00:59:39 | INFO | src.predict | Model loaded successfully
+2026-06-09 00:59:41 | INFO | src.predict | Running prediction
+2026-06-09 00:59:41 | INFO | src.predict | Prediction=cat, Confidence=0.8453
+2026-06-09 01:00:41 | INFO | __main__ | Application started
+2026-06-09 01:00:48 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 01:00:50 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 01:00:50 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 01:00:51 | INFO | src.data | Normalization completed
+2026-06-09 01:00:51 | INFO | src.evaluate | Evaluation started
+2026-06-09 01:00:51 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 01:00:53 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 01:00:53 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 01:00:54 | INFO | src.data | Normalization completed
+2026-06-09 01:00:56 | INFO | src.evaluate | Classification report generated
+2026-06-09 01:00:56 | INFO | src.evaluate | Evaluation completed
+2026-06-09 01:00:56 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-09 01:00:57 | INFO | src.predict | Model loaded successfully
+2026-06-09 01:00:58 | INFO | src.predict | Running prediction
+2026-06-09 01:00:58 | INFO | src.predict | Prediction=cat, Confidence=0.8453
+2026-06-09 01:02:20 | INFO | __main__ | Application started
+2026-06-09 01:02:27 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 01:02:29 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 01:02:29 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 01:02:29 | INFO | src.data | Normalization completed
+2026-06-09 01:02:29 | INFO | src.evaluate | Evaluation started
+2026-06-09 01:02:29 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 01:02:31 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 01:02:31 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 01:02:32 | INFO | src.data | Normalization completed
+2026-06-09 01:02:34 | INFO | src.evaluate | Classification report generated
+2026-06-09 01:02:34 | INFO | src.evaluate | Evaluation completed
+2026-06-09 01:02:34 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-09 01:02:34 | INFO | src.predict | Model loaded successfully
+2026-06-09 01:04:03 | INFO | __main__ | Application started
+2026-06-09 01:04:10 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 01:04:12 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 01:04:12 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 01:04:12 | INFO | src.data | Normalization completed
+2026-06-09 01:04:13 | INFO | src.evaluate | Evaluation started
+2026-06-09 01:04:13 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 01:04:14 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 01:04:14 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 01:04:15 | INFO | src.data | Normalization completed
+2026-06-09 01:04:18 | INFO | src.evaluate | Classification report generated
+2026-06-09 01:04:18 | INFO | src.evaluate | Evaluation completed
+2026-06-09 01:04:18 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-09 01:04:18 | INFO | src.predict | Model loaded successfully
+2026-06-09 01:04:19 | INFO | src.predict | Running prediction
+2026-06-09 10:20:22 | INFO | __main__ | Application started
+2026-06-09 10:20:39 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 10:20:41 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 10:20:41 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 10:20:42 | INFO | src.data | Normalization completed
+2026-06-09 10:20:43 | INFO | src.evaluate | Evaluation started
+2026-06-09 10:20:43 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 10:20:45 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 10:20:45 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 10:20:46 | INFO | src.data | Normalization completed
+2026-06-09 10:20:49 | INFO | src.evaluate | Classification report generated
+2026-06-09 10:20:49 | INFO | src.evaluate | Evaluation completed
+2026-06-09 10:20:49 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-09 10:20:49 | INFO | src.predict | Model loaded successfully
+2026-06-09 10:20:51 | INFO | src.predict | Loading image: inputs/sample_image.png
+2026-06-09 10:20:51 | INFO | src.predict | Running prediction
+2026-06-09 10:20:51 | INFO | src.predict | Prediction=cat, Confidence=0.2906
+2026-06-09 10:20:52 | INFO | src.visualisation | Displaying sample images
+2026-06-09 10:34:44 | INFO | __main__ | Application started
+2026-06-09 10:34:51 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 10:34:53 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 10:34:53 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 10:34:53 | INFO | src.data | Normalization completed
+2026-06-09 10:34:54 | INFO | src.evaluate | Evaluation started
+2026-06-09 10:34:54 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 10:34:55 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 10:34:55 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 10:34:56 | INFO | src.data | Normalization completed
+2026-06-09 10:34:59 | INFO | src.evaluate | Classification report generated
+2026-06-09 10:34:59 | INFO | src.evaluate | Evaluation completed
+2026-06-09 10:34:59 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-09 10:34:59 | INFO | src.predict | Model loaded successfully
+2026-06-09 10:35:00 | INFO | src.predict | Loading image: inputs/sample_image.png
+2026-06-09 10:35:00 | INFO | src.predict | Running prediction
+2026-06-09 10:35:00 | INFO | src.predict | Prediction=cat, Confidence=0.2906
+2026-06-09 10:35:00 | INFO | src.visualisation | Displaying sample images
+2026-06-09 10:35:24 | INFO | src.visualisation | Displaying correct predictions
+2026-06-09 10:35:32 | INFO | src.visualisation | Displaying errors
+2026-06-09 10:37:16 | INFO | __main__ | Application started
+2026-06-09 10:37:22 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 10:37:24 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 10:37:24 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 10:37:24 | INFO | src.data | Normalization completed
+2026-06-09 10:37:25 | INFO | src.evaluate | Evaluation started
+2026-06-09 10:37:25 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 10:37:26 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 10:37:26 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 10:37:27 | INFO | src.data | Normalization completed
+2026-06-09 10:37:29 | INFO | src.evaluate | Classification report generated
+2026-06-09 10:37:29 | INFO | src.evaluate | Evaluation completed
+2026-06-09 10:37:29 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-09 10:37:30 | INFO | src.predict | Model loaded successfully
+2026-06-09 10:37:31 | INFO | src.predict | Loading image: inputs/sample_image.png
+2026-06-09 10:37:31 | INFO | src.predict | Running prediction
+2026-06-09 10:37:31 | INFO | src.predict | Prediction=cat, Confidence=0.2906
+2026-06-09 10:37:31 | INFO | src.visualisation | Displaying sample images
+2026-06-09 10:39:29 | INFO | src.visualisation | Displaying correct predictions
+2026-06-09 10:39:41 | INFO | src.visualisation | Displaying errors
+2026-06-09 10:43:43 | INFO | __main__ | Application started
+2026-06-09 10:43:50 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 10:43:52 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 10:43:52 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 10:43:53 | INFO | src.data | Normalization completed
+2026-06-09 10:43:53 | INFO | src.evaluate | Evaluation started
+2026-06-09 10:43:53 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 10:43:55 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 10:43:55 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 10:43:55 | INFO | src.data | Normalization completed
+2026-06-09 10:43:57 | INFO | src.evaluate | Classification report generated
+2026-06-09 10:43:57 | INFO | src.evaluate | Evaluation completed
+2026-06-09 10:43:57 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-09 10:43:57 | INFO | src.predict | Model loaded successfully
+2026-06-09 10:43:58 | INFO | src.predict | Loading image: inputs/sample_image.png
+2026-06-09 10:43:58 | INFO | src.predict | Running prediction
+2026-06-09 10:43:58 | INFO | src.predict | Prediction=cat, Confidence=0.2906
+2026-06-09 10:43:58 | INFO | src.visualisation | Displaying sample images
+2026-06-09 10:46:37 | INFO | __main__ | Application started
+2026-06-09 10:46:43 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 10:46:45 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 10:46:45 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 10:46:45 | INFO | src.data | Normalization completed
+2026-06-09 10:46:46 | INFO | src.evaluate | Evaluation started
+2026-06-09 11:11:06 | INFO | __main__ | Application started
+2026-06-09 11:11:17 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 11:11:18 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 11:11:18 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 11:11:20 | INFO | src.data | Normalization completed
+2026-06-09 11:11:20 | INFO | src.evaluate | Evaluation started
+2026-06-09 11:11:24 | INFO | src.evaluate | Classification report generated
+2026-06-09 11:11:24 | INFO | src.evaluate | Evaluation completed
+2026-06-09 11:11:24 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-09 11:11:24 | INFO | src.predict | Model loaded successfully
+2026-06-09 11:11:25 | INFO | src.predict | Loading image: inputs/sample_image.png
+2026-06-09 11:11:25 | INFO | src.predict | Running prediction
+2026-06-09 11:14:54 | INFO | __main__ | Application started
+2026-06-09 11:15:00 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 11:15:02 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 11:15:02 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 11:15:03 | INFO | src.data | Normalization completed
+2026-06-09 11:15:03 | INFO | src.evaluate | Evaluation started
+2026-06-09 11:15:05 | INFO | src.evaluate | Classification report generated
+2026-06-09 11:15:05 | INFO | src.evaluate | Evaluation completed
+2026-06-09 11:15:05 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-09 11:15:05 | INFO | src.predict | Model loaded successfully
+2026-06-09 11:15:06 | INFO | src.predict | Loading image: inputs/sample_image.jpg
+2026-06-09 11:15:06 | INFO | src.predict | Running prediction
+2026-06-09 11:15:06 | INFO | src.predict | Prediction=automobile, Confidence=0.9999
+2026-06-09 11:15:06 | INFO | src.visualisation | Displaying sample images
+2026-06-09 11:15:13 | INFO | src.visualisation | Displaying correct predictions
+2026-06-09 11:15:36 | INFO | src.visualisation | Displaying errors
+2026-06-09 12:24:02 | INFO | __main__ | Application started
+2026-06-09 12:24:19 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 12:24:21 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 12:24:21 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 12:24:22 | INFO | src.data | Normalization completed
+2026-06-09 12:24:22 | INFO | src.evaluate | Evaluation started
+2026-06-09 12:24:24 | INFO | src.evaluate | Classification report generated
+2026-06-09 12:24:24 | INFO | src.evaluate | Confusion matrix generated
+2026-06-09 12:24:44 | INFO | src.evaluate | Evaluation completed
+2026-06-09 12:24:44 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-09 12:24:44 | INFO | src.predict | Model loaded successfully
+2026-06-09 12:24:46 | INFO | src.predict | Loading image: inputs/sample_image.jpg
+2026-06-09 12:24:46 | INFO | src.predict | Running prediction
+2026-06-09 12:24:46 | INFO | src.predict | Prediction=automobile, Confidence=0.9999
+2026-06-09 12:24:46 | INFO | src.visualisation | Displaying sample images
+2026-06-09 12:24:50 | INFO | src.visualisation | Displaying correct predictions
+2026-06-09 12:31:46 | INFO | src.visualisation | Displaying errors
+2026-06-09 12:32:41 | INFO | __main__ | Application started
+2026-06-09 12:32:50 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 12:32:52 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 12:32:52 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 12:32:53 | INFO | src.data | Normalization completed
+2026-06-09 12:32:53 | INFO | src.evaluate | Evaluation started
+2026-06-09 12:32:56 | INFO | src.evaluate | Classification report generated
+2026-06-09 12:32:56 | INFO | src.evaluate | Confusion matrix generated
+2026-06-09 12:33:02 | INFO | src.evaluate | Evaluation completed
+2026-06-09 12:33:02 | INFO | src.train | Training pipeline started
+2026-06-09 12:33:02 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 12:33:04 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 12:33:04 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 12:33:05 | INFO | src.data | Normalization completed
+2026-06-09 12:33:05 | INFO | src.model | Building CNN model
+2026-06-09 12:33:06 | INFO | src.model | Model architecture created
+2026-06-09 12:33:06 | INFO | src.train | Model compilation complete
+2026-06-09 12:33:06 | INFO | src.train | Training started
+2026-06-09 12:39:11 | INFO | src.train | Model saved successfully
+2026-06-09 12:39:11 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-09 12:39:11 | INFO | src.predict | Model loaded successfully
+2026-06-09 12:39:14 | INFO | src.predict | Loading image: inputs/sample_image.jpg
+2026-06-09 12:39:14 | INFO | src.predict | Running prediction
+2026-06-09 12:39:14 | INFO | src.predict | Prediction=automobile, Confidence=1.0000
+2026-06-09 12:39:14 | INFO | src.visualisation | Displaying sample images
+2026-06-09 12:39:28 | INFO | src.visualisation | Displaying correct predictions
+2026-06-09 12:39:33 | INFO | src.visualisation | Displaying errors
+2026-06-09 12:39:39 | INFO | src.visualisation | Plotting training history
+2026-06-09 12:39:58 | INFO | src.visualisation | Plotting accuracy and loss
+2026-06-09 12:40:11 | INFO | src.error | Error analysis started
+2026-06-09 12:40:11 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 12:40:14 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 12:40:14 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 12:40:15 | INFO | src.data | Normalization completed
+2026-06-09 12:40:17 | INFO | src.error | Misclassified images: 2993
+2026-06-09 12:40:33 | INFO | src.error | Error visualization completed
+2026-06-09 12:40:33 | INFO | __main__ | Application finished
+2026-06-09 13:19:31 | INFO | __main__ | Application started
+2026-06-09 13:19:31 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 13:19:33 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 13:19:33 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 13:19:34 | INFO | src.data | Normalization completed
+2026-06-09 13:19:34 | INFO | src.evaluate | Evaluation started
+2026-06-09 13:19:37 | INFO | src.evaluate | Classification report generated
+2026-06-09 13:19:37 | INFO | src.evaluate | Confusion matrix generated
+2026-06-09 13:19:38 | INFO | src.evaluate | Evaluation completed
+2026-06-09 13:19:38 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-09 13:19:38 | INFO | src.predict | Model loaded successfully
+2026-06-09 13:19:39 | INFO | src.predict | Loading image: inputs/sample_image.jpg
+2026-06-09 13:19:39 | INFO | src.predict | Running prediction
+2026-06-09 13:19:39 | INFO | src.predict | Prediction=automobile, Confidence=1.0000
+2026-06-09 13:19:39 | INFO | src.visualisation | Displaying sample images
+2026-06-09 13:20:10 | INFO | src.visualisation | Displaying correct predictions
+2026-06-09 13:20:17 | INFO | src.visualisation | Displaying errors
+2026-06-09 13:20:20 | INFO | src.visualisation | Plotting training history
+2026-06-09 13:20:23 | INFO | src.visualisation | Plotting accuracy and loss
+2026-06-09 13:20:26 | INFO | src.error | Error analysis started
+2026-06-09 13:20:28 | INFO | src.error | Misclassified images: 2993
+2026-06-09 13:25:54 | INFO | __main__ | Application started
+2026-06-09 13:25:54 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 13:25:56 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 13:25:56 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 13:25:57 | INFO | src.data | Normalization completed
+2026-06-09 13:25:57 | INFO | src.evaluate | Evaluation started
+2026-06-09 13:26:00 | INFO | src.evaluate | Classification report generated
+2026-06-09 13:26:00 | INFO | src.evaluate | Confusion matrix generated
+2026-06-09 13:26:01 | INFO | src.evaluate | Evaluation completed
+2026-06-09 13:26:01 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-09 13:26:01 | INFO | src.predict | Model loaded successfully
+2026-06-09 13:26:02 | INFO | src.predict | Loading image: inputs/sample_image.jpg
+2026-06-09 13:26:02 | INFO | src.predict | Running prediction
+2026-06-09 13:26:02 | INFO | src.predict | Prediction=automobile, Confidence=1.0000
+2026-06-09 13:26:02 | INFO | src.visualisation | Displaying sample images
+2026-06-09 13:26:11 | INFO | src.visualisation | Displaying correct predictions
+2026-06-09 13:26:15 | INFO | src.visualisation | Displaying errors
+2026-06-09 13:26:20 | INFO | src.visualisation | Plotting training history
+2026-06-09 13:26:32 | INFO | src.visualisation | Plotting accuracy and loss
+2026-06-09 13:26:52 | INFO | src.error | Error analysis started
+2026-06-09 13:26:53 | INFO | src.error | Misclassified images: 2993
+2026-06-09 13:26:58 | INFO | src.error | Error visualization completed
+2026-06-09 13:26:58 | INFO | __main__ | Application finished
+2026-06-09 13:29:52 | INFO | __main__ | Application started
+2026-06-09 13:29:52 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 13:29:54 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 13:29:54 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 13:29:55 | INFO | src.data | Normalization completed
+2026-06-09 13:29:55 | INFO | src.train | Training pipeline started
+2026-06-09 13:29:55 | INFO | src.model | Building CNN model
+2026-06-09 13:29:55 | INFO | src.model | Model architecture created
+2026-06-09 13:29:55 | INFO | src.train | Model compilation complete
+2026-06-09 13:29:55 | INFO | src.train | Training started
+2026-06-09 13:31:51 | INFO | __main__ | Application started
+2026-06-09 13:31:51 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 13:31:53 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 13:31:53 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 13:31:54 | INFO | src.data | Normalization completed
+2026-06-09 13:31:54 | INFO | src.train | Training pipeline started
+2026-06-09 13:31:54 | INFO | src.model | Building CNN model
+2026-06-09 13:31:54 | INFO | src.model | Model architecture created
+2026-06-09 13:31:54 | INFO | src.train | Model compilation complete
+2026-06-09 13:31:54 | INFO | src.train | Training started
+2026-06-09 13:43:23 | INFO | src.train | Model saved successfully
+2026-06-09 13:45:44 | INFO | __main__ | Application started
+2026-06-09 13:45:44 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 13:45:46 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 13:45:46 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 13:45:47 | INFO | src.data | Normalization completed
+2026-06-09 13:45:47 | INFO | src.evaluate | Evaluation started
+2026-06-09 13:45:49 | INFO | src.evaluate | Classification report generated
+2026-06-09 13:45:49 | INFO | src.evaluate | Confusion matrix generated
+2026-06-09 13:45:50 | INFO | src.evaluate | Evaluation completed
+2026-06-09 13:45:50 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-09 13:45:50 | INFO | src.predict | Model loaded successfully
+2026-06-09 13:45:52 | INFO | src.predict | Loading image: inputs/sample_image.jpg
+2026-06-09 13:45:52 | INFO | src.predict | Running prediction
+2026-06-09 13:45:52 | INFO | src.predict | Prediction=automobile, Confidence=0.9985
+2026-06-09 13:45:52 | INFO | src.visualisation | Displaying sample images
+2026-06-09 13:45:55 | INFO | src.visualisation | Displaying correct predictions
+2026-06-09 13:45:58 | INFO | src.visualisation | Displaying errors
+2026-06-09 13:46:01 | INFO | src.visualisation | Plotting training history
+2026-06-09 13:46:12 | INFO | src.visualisation | Plotting accuracy and loss
+2026-06-09 13:46:18 | INFO | src.error | Error analysis started
+2026-06-09 13:46:20 | INFO | src.error | Misclassified images: 3229
+2026-06-09 13:46:28 | INFO | src.error | Error visualization completed
+2026-06-09 13:46:28 | INFO | __main__ | Application finished
+2026-06-09 14:04:23 | INFO | __main__ | Application started
+2026-06-09 14:04:23 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 14:04:25 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 14:04:25 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 14:04:27 | INFO | src.data | Normalization completed
+2026-06-09 14:04:27 | INFO | src.evaluate | Evaluation started
+2026-06-09 14:04:30 | INFO | src.evaluate | Classification report generated
+2026-06-09 14:04:30 | INFO | src.evaluate | Confusion matrix generated
+2026-06-09 14:04:31 | INFO | src.evaluate | Evaluation completed
+2026-06-09 14:04:31 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-09 14:04:31 | INFO | src.predict | Model loaded successfully
+2026-06-09 14:04:32 | INFO | src.predict | Loading image: inputs/sample_image.jpg
+2026-06-09 14:04:32 | INFO | src.predict | Running prediction
+2026-06-09 14:04:32 | INFO | src.predict | Prediction=automobile, Confidence=0.9985
+2026-06-09 14:04:32 | INFO | src.visualisation | Displaying sample images
+2026-06-09 14:04:36 | INFO | src.visualisation | Displaying correct predictions
+2026-06-09 14:04:39 | INFO | src.visualisation | Displaying errors
+2026-06-09 14:04:41 | INFO | src.visualisation | Plotting training history
+2026-06-09 14:04:46 | INFO | src.visualisation | Plotting accuracy and loss
+2026-06-09 14:04:54 | INFO | src.error | Error analysis started
+2026-06-09 14:04:56 | INFO | src.error | Misclassified images: 3229
+2026-06-09 14:04:59 | INFO | src.error | Error visualization completed
+2026-06-09 14:04:59 | INFO | __main__ | Application finished
+2026-06-09 14:20:25 | INFO | __main__ | Application started
+2026-06-09 14:20:25 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 14:20:28 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 14:20:28 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 14:20:30 | INFO | src.data | Normalization completed
+2026-06-09 14:20:30 | INFO | src.train | Training pipeline started
+2026-06-09 14:20:30 | INFO | src.model | Building CNN model
+2026-06-09 14:20:30 | INFO | src.model | Model architecture created
+2026-06-09 14:20:30 | INFO | src.train | Model compilation complete
+2026-06-09 14:20:30 | INFO | src.train | Training started
+2026-06-09 14:22:26 | INFO | __main__ | Application started
+2026-06-09 14:22:26 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 14:22:29 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 14:22:29 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 14:22:30 | INFO | src.data | Normalization completed
+2026-06-09 14:22:30 | INFO | src.train | Training pipeline started
+2026-06-09 14:22:30 | INFO | src.model | Building CNN model
+2026-06-09 14:22:30 | INFO | src.model | Model architecture created
+2026-06-09 14:22:30 | INFO | src.train | Model compilation complete
+2026-06-09 14:22:30 | INFO | src.train | Training started
+2026-06-09 17:48:00 | INFO | src.train | Model saved successfully
+2026-06-09 17:48:00 | INFO | src.train | Training history saved
+2026-06-09 19:37:16 | INFO | __main__ | Application started
+2026-06-09 19:37:16 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 19:37:18 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 19:37:18 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 19:37:19 | INFO | src.data | Normalization completed
+2026-06-09 19:37:19 | INFO | __main__ | Using existing model.
+2026-06-09 19:37:19 | INFO | src.evaluate | Evaluation started
+2026-06-09 19:37:26 | INFO | src.evaluate | Classification report generated
+2026-06-09 19:37:26 | INFO | src.evaluate | Confusion matrix generated
+2026-06-09 19:37:27 | INFO | src.evaluate | Evaluation completed
+2026-06-09 19:37:27 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-09 19:37:27 | INFO | src.predict | Model loaded successfully
+2026-06-09 19:37:33 | INFO | src.predict | Loading image: inputs/sample_image.jpg
+2026-06-09 19:37:33 | INFO | src.predict | Running prediction
+2026-06-09 19:37:33 | INFO | src.predict | Prediction=automobile, Confidence=1.0000
+2026-06-09 19:37:33 | INFO | src.visualisation | Displaying sample images
+2026-06-09 19:37:37 | INFO | src.visualisation | Displaying correct predictions
+2026-06-09 19:37:44 | INFO | src.visualisation | Displaying errors
+2026-06-09 19:37:49 | INFO | src.visualisation | Plotting training history
+2026-06-09 19:37:51 | INFO | src.visualisation | Plotting accuracy and loss
+2026-06-09 19:38:02 | INFO | src.error | Error analysis started
+2026-06-09 19:38:10 | INFO | src.error | Misclassified images: 2369
+2026-06-09 19:38:13 | INFO | src.error | Error visualization completed
+2026-06-09 19:38:13 | INFO | __main__ | Application finished
+2026-06-09 19:39:28 | INFO | __main__ | Application started
+2026-06-09 19:39:28 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 19:39:30 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 19:39:30 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 19:39:31 | INFO | src.data | Normalization completed
+2026-06-09 19:39:31 | INFO | __main__ | Using existing model.
+2026-06-09 19:39:31 | INFO | src.evaluate | Evaluation started
+2026-06-09 19:39:38 | INFO | src.evaluate | Classification report generated
+2026-06-09 19:39:38 | INFO | src.evaluate | Confusion matrix generated
+2026-06-09 19:39:38 | INFO | src.evaluate | Evaluation completed
+2026-06-09 19:39:38 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-09 19:39:39 | INFO | src.predict | Model loaded successfully
+2026-06-09 19:39:46 | INFO | src.predict | Loading image: inputs/sample_image.jpg
+2026-06-09 19:39:46 | INFO | src.predict | Running prediction
+2026-06-09 19:39:46 | INFO | src.predict | Prediction=automobile, Confidence=1.0000
+2026-06-09 19:39:46 | INFO | src.visualisation | Displaying sample images
+2026-06-09 19:39:48 | INFO | src.visualisation | Displaying correct predictions
+2026-06-09 19:39:52 | INFO | src.visualisation | Displaying errors
+2026-06-09 19:39:54 | INFO | src.visualisation | Plotting training history
+2026-06-09 19:39:57 | INFO | src.visualisation | Plotting accuracy and loss
+2026-06-09 19:39:59 | INFO | src.error | Error analysis started
+2026-06-09 19:40:06 | INFO | src.error | Misclassified images: 2369
+2026-06-09 19:40:07 | INFO | src.error | Error visualization completed
+2026-06-09 19:40:07 | INFO | __main__ | Application finished
+2026-06-09 19:41:12 | INFO | __main__ | Application started
+2026-06-09 19:41:12 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-09 19:41:14 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-09 19:41:14 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-09 19:41:15 | INFO | src.data | Normalization completed
+2026-06-09 19:41:15 | INFO | __main__ | No trained model found.
+2026-06-09 19:41:15 | INFO | src.train | Training pipeline started
+2026-06-09 19:41:15 | INFO | src.train | No existing model found. Creating new model.
+2026-06-09 19:41:15 | INFO | src.model | Building CNN model
+2026-06-09 19:41:15 | INFO | src.model | Model architecture created
+2026-06-09 19:41:15 | INFO | src.train | Model compilation complete
+2026-06-09 19:41:15 | INFO | src.train | Training started
+2026-06-09 20:34:34 | INFO | src.train | Model saved successfully
+2026-06-09 20:34:34 | INFO | src.train | Training history saved
+2026-06-09 20:34:35 | INFO | src.train | Model summary saved
+2026-06-09 20:34:35 | INFO | src.train | Training completed
+2026-06-09 20:34:35 | INFO | src.evaluate | Evaluation started
+2026-06-09 20:34:43 | INFO | src.evaluate | Classification report generated
+2026-06-09 20:34:43 | INFO | src.evaluate | Confusion matrix generated
+2026-06-09 20:34:44 | INFO | src.evaluate | Evaluation completed
+2026-06-09 20:34:44 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-09 20:34:45 | INFO | src.predict | Model loaded successfully
+2026-06-09 20:34:51 | INFO | src.predict | Loading image: inputs/sample_image.jpg
+2026-06-09 20:34:51 | INFO | src.predict | Running prediction
+2026-06-09 20:34:51 | INFO | src.predict | Prediction=automobile, Confidence=1.0000
+2026-06-09 20:34:51 | INFO | src.visualisation | Displaying sample images
+2026-06-10 10:04:02 | INFO | src.visualisation | Displaying correct predictions
+2026-06-10 10:04:06 | INFO | src.visualisation | Displaying errors
+2026-06-10 10:04:13 | INFO | src.visualisation | Plotting training history
+2026-06-10 10:04:17 | INFO | src.visualisation | Plotting accuracy and loss
+2026-06-10 10:04:24 | INFO | src.error | Error analysis started
+2026-06-10 10:04:38 | INFO | src.error | Misclassified images: 2503
+2026-06-10 10:04:46 | INFO | src.error | Error visualization completed
+2026-06-10 10:04:46 | INFO | __main__ | Application finished
+2026-06-10 12:30:08 | INFO | __main__ | Application started
+2026-06-10 12:30:08 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-10 12:30:10 | INFO | src.data | Train shape: (50000, 32, 32, 3)
+2026-06-10 12:30:10 | INFO | src.data | Test shape: (10000, 32, 32, 3)
+2026-06-10 12:30:12 | INFO | src.data | Normalization completed
+2026-06-10 12:30:12 | INFO | __main__ | Using existing model.
+2026-06-10 12:30:12 | INFO | src.evaluate | Evaluation started
+2026-06-10 12:30:20 | INFO | src.evaluate | Classification report generated
+2026-06-10 12:30:20 | INFO | src.evaluate | Confusion matrix generated
+2026-06-10 12:30:21 | INFO | src.evaluate | Evaluation completed
+2026-06-10 12:30:21 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 12:30:22 | INFO | src.predict | Model loaded successfully
+2026-06-10 12:30:29 | INFO | src.predict | Loading image: inputs/sample_image.jpg
+2026-06-10 12:30:29 | INFO | src.predict | Image shape: (32, 32, 3)
+2026-06-10 12:30:29 | INFO | src.predict | Running prediction
+2026-06-10 12:30:29 | INFO | src.predict | Entropy=1.3805
+2026-06-10 12:30:29 | INFO | src.unknown | Max confidence: 0.5106
+2026-06-10 12:30:29 | INFO | src.predict | Prediction=unknown
+2026-06-10 12:30:29 | INFO | src.predict | Confidence=0.5106
+2026-06-10 12:30:29 | INFO | src.visualisation | Displaying sample images
+2026-06-10 12:30:34 | INFO | src.visualisation | Displaying correct predictions
+2026-06-10 12:30:40 | INFO | src.visualisation | Displaying errors
+2026-06-10 12:30:48 | INFO | src.visualisation | Plotting training history
+2026-06-10 12:30:51 | INFO | src.visualisation | Plotting accuracy and loss
+2026-06-10 12:31:00 | INFO | src.error | Error analysis started
+2026-06-10 12:31:08 | INFO | src.error | Misclassified images: 2503
+2026-06-10 12:31:21 | INFO | src.error | Error visualization completed
+2026-06-10 12:31:21 | INFO | __main__ | Application finished
+2026-06-10 12:45:04 | INFO | api | Loading model...
+2026-06-10 12:45:04 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 12:45:05 | INFO | src.predict | Model loaded successfully
+2026-06-10 12:45:05 | INFO | api | API ready
+2026-06-10 12:45:11 | INFO | api | Loading model...
+2026-06-10 12:45:11 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 12:45:12 | INFO | src.predict | Model loaded successfully
+2026-06-10 12:45:12 | INFO | api | API ready
+2026-06-10 12:46:08 | INFO | src.predict | Loading image: C:\Users\vrehm\AppData\Local\Temp\tmpkca3q2kc.jpg
+2026-06-10 12:46:08 | INFO | src.predict | Image shape: (32, 32, 3)
+2026-06-10 12:46:08 | INFO | src.predict | Running prediction
+2026-06-10 12:46:09 | INFO | src.predict | Entropy=1.3805
+2026-06-10 12:46:09 | INFO | src.unknown | Max confidence: 0.5106
+2026-06-10 12:46:09 | INFO | src.predict | Prediction=unknown
+2026-06-10 12:46:09 | INFO | src.predict | Confidence=0.5106
+2026-06-10 12:47:19 | INFO | api | Loading model...
+2026-06-10 12:47:19 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 12:47:20 | INFO | src.predict | Model loaded successfully
+2026-06-10 12:47:20 | INFO | api | API ready
+2026-06-10 12:47:26 | INFO | src.predict | Loading image: C:\Users\vrehm\AppData\Local\Temp\tmpkxcnml5_.jpg
+2026-06-10 12:47:26 | INFO | src.predict | Image shape: (32, 32, 3)
+2026-06-10 12:47:26 | INFO | src.predict | Running prediction
+2026-06-10 12:47:26 | INFO | src.predict | Entropy=1.3805
+2026-06-10 12:47:26 | INFO | src.unknown | Max confidence: 0.5106
+2026-06-10 12:47:26 | INFO | src.predict | Prediction=unknown
+2026-06-10 12:47:26 | INFO | src.predict | Confidence=0.5106
+2026-06-10 12:47:26 | ERROR | api | Prediction failed
+Traceback (most recent call last):
+  File "C:\Users\vrehm\OneDrive\Desktop\AIML Intern Expentor\Task 4.1\api.py", line 97, in predict
+    predicted_class, confidence = (
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: too many values to unpack (expected 2)
+2026-06-10 12:48:38 | INFO | api | Loading model...
+2026-06-10 12:48:38 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 12:48:38 | INFO | src.predict | Model loaded successfully
+2026-06-10 12:48:38 | INFO | api | API ready
+2026-06-10 12:50:06 | INFO | api | Loading model...
+2026-06-10 12:50:06 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 12:50:07 | INFO | src.predict | Model loaded successfully
+2026-06-10 12:50:07 | INFO | api | API ready
+2026-06-10 12:50:21 | INFO | api | Loading model...
+2026-06-10 12:50:21 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 12:50:22 | INFO | src.predict | Model loaded successfully
+2026-06-10 12:50:22 | INFO | api | API ready
+2026-06-10 12:50:30 | INFO | api | Loading model...
+2026-06-10 12:50:30 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 12:50:30 | INFO | src.predict | Model loaded successfully
+2026-06-10 12:50:30 | INFO | api | API ready
+2026-06-10 12:50:30 | INFO | src.predict | Loading image: C:\Users\vrehm\AppData\Local\Temp\tmpfe1pgrdy.jpg
+2026-06-10 12:50:30 | INFO | src.predict | Image shape: (32, 32, 3)
+2026-06-10 12:50:30 | INFO | src.predict | Running prediction
+2026-06-10 12:50:31 | INFO | src.predict | Entropy=1.3805
+2026-06-10 12:50:31 | INFO | src.unknown | Max confidence: 0.5106
+2026-06-10 12:50:31 | INFO | src.predict | Prediction=unknown
+2026-06-10 12:50:31 | INFO | src.predict | Confidence=0.5106
+2026-06-10 12:50:31 | ERROR | api | Prediction failed
+Traceback (most recent call last):
+  File "C:\Users\vrehm\OneDrive\Desktop\AIML Intern Expentor\Task 4.1\api.py", line 89, in predict
+    predicted_class, confidence = (
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: too many values to unpack (expected 2)
+2026-06-10 12:50:48 | INFO | api | Loading model...
+2026-06-10 12:50:48 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 12:50:49 | INFO | src.predict | Model loaded successfully
+2026-06-10 12:50:49 | INFO | api | API ready
+2026-06-10 12:50:51 | INFO | src.predict | Loading image: C:\Users\vrehm\AppData\Local\Temp\tmpa1onsnh3.jpg
+2026-06-10 12:50:51 | INFO | src.predict | Image shape: (32, 32, 3)
+2026-06-10 12:50:51 | INFO | src.predict | Running prediction
+2026-06-10 12:50:51 | INFO | src.predict | Entropy=1.3805
+2026-06-10 12:50:51 | INFO | src.unknown | Max confidence: 0.5106
+2026-06-10 12:50:51 | INFO | src.predict | Prediction=unknown
+2026-06-10 12:50:51 | INFO | src.predict | Confidence=0.5106
+2026-06-10 12:50:51 | ERROR | api | Prediction failed
+Traceback (most recent call last):
+  File "C:\Users\vrehm\OneDrive\Desktop\AIML Intern Expentor\Task 4.1\api.py", line 89, in predict
+    predicted_class, confidence = (
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: too many values to unpack (expected 2)
+2026-06-10 12:50:54 | INFO | src.predict | Loading image: C:\Users\vrehm\AppData\Local\Temp\tmpudzxvqy4.jpg
+2026-06-10 12:50:54 | INFO | src.predict | Image shape: (32, 32, 3)
+2026-06-10 12:50:54 | INFO | src.predict | Running prediction
+2026-06-10 12:50:54 | INFO | src.predict | Entropy=1.3805
+2026-06-10 12:50:54 | INFO | src.unknown | Max confidence: 0.5106
+2026-06-10 12:50:54 | INFO | src.predict | Prediction=unknown
+2026-06-10 12:50:54 | INFO | src.predict | Confidence=0.5106
+2026-06-10 12:50:54 | ERROR | api | Prediction failed
+Traceback (most recent call last):
+  File "C:\Users\vrehm\OneDrive\Desktop\AIML Intern Expentor\Task 4.1\api.py", line 89, in predict
+    predicted_class, confidence = (
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: too many values to unpack (expected 2)
+2026-06-10 12:51:23 | INFO | api | Loading model...
+2026-06-10 12:51:23 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 12:51:23 | INFO | src.predict | Model loaded successfully
+2026-06-10 12:51:23 | INFO | api | API ready
+2026-06-10 12:51:31 | INFO | api | Loading model...
+2026-06-10 12:51:31 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 12:51:32 | INFO | src.predict | Model loaded successfully
+2026-06-10 12:51:32 | INFO | api | API ready
+2026-06-10 12:51:32 | INFO | src.predict | Loading image: C:\Users\vrehm\AppData\Local\Temp\tmp2ohv5t7h.jpg
+2026-06-10 12:51:32 | INFO | src.predict | Image shape: (32, 32, 3)
+2026-06-10 12:51:32 | INFO | src.predict | Running prediction
+2026-06-10 12:51:32 | INFO | src.predict | Entropy=1.3805
+2026-06-10 12:51:32 | INFO | src.unknown | Max confidence: 0.5106
+2026-06-10 12:51:32 | INFO | src.predict | Prediction=unknown
+2026-06-10 12:51:32 | INFO | src.predict | Confidence=0.5106
+2026-06-10 12:51:32 | ERROR | api | Prediction failed
+Traceback (most recent call last):
+  File "C:\Users\vrehm\OneDrive\Desktop\AIML Intern Expentor\Task 4.1\api.py", line 98, in predict
+    top_predictions.append({
+    ^^^^^^^^^^^^^^^
+NameError: name 'top_predictions' is not defined
+2026-06-10 12:54:37 | INFO | api | Loading trained model...
+2026-06-10 12:54:37 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 12:54:37 | INFO | src.predict | Model loaded successfully
+2026-06-10 12:54:37 | INFO | api | API ready
+2026-06-10 12:54:51 | INFO | api | Loading trained model...
+2026-06-10 12:54:51 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 12:54:52 | INFO | src.predict | Model loaded successfully
+2026-06-10 12:54:52 | INFO | api | API ready
+2026-06-10 12:55:01 | INFO | api | Loading trained model...
+2026-06-10 12:55:01 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 12:55:02 | INFO | src.predict | Model loaded successfully
+2026-06-10 12:55:02 | INFO | api | API ready
+2026-06-10 13:02:51 | INFO | api | Received file: sample_image.jpg
+2026-06-10 13:02:51 | INFO | src.predict | Loading image: C:\Users\vrehm\AppData\Local\Temp\tmpo90390va.jpg
+2026-06-10 13:02:51 | INFO | src.predict | Image shape: (32, 32, 3)
+2026-06-10 13:02:51 | INFO | src.predict | Running prediction
+2026-06-10 13:02:53 | INFO | src.predict | Entropy=1.3805
+2026-06-10 13:02:53 | INFO | src.unknown | Max confidence: 0.5106
+2026-06-10 13:02:53 | INFO | src.predict | Prediction=unknown
+2026-06-10 13:02:53 | INFO | src.predict | Confidence=0.5106
+2026-06-10 13:02:53 | ERROR | api | Prediction failed
+Traceback (most recent call last):
+  File "C:\Users\vrehm\OneDrive\Desktop\AIML Intern Expentor\Task 4.1\api.py", line 123, in predict
+    top3 = np.argsort(
+           ^^
+NameError: name 'np' is not defined
+2026-06-10 13:02:55 | INFO | api | Received file: sample_image.jpg
+2026-06-10 13:02:55 | INFO | src.predict | Loading image: C:\Users\vrehm\AppData\Local\Temp\tmpqxuo5fke.jpg
+2026-06-10 13:02:55 | INFO | src.predict | Image shape: (32, 32, 3)
+2026-06-10 13:02:55 | INFO | src.predict | Running prediction
+2026-06-10 13:02:56 | INFO | src.predict | Entropy=1.3805
+2026-06-10 13:02:56 | INFO | src.unknown | Max confidence: 0.5106
+2026-06-10 13:02:56 | INFO | src.predict | Prediction=unknown
+2026-06-10 13:02:56 | INFO | src.predict | Confidence=0.5106
+2026-06-10 13:02:56 | ERROR | api | Prediction failed
+Traceback (most recent call last):
+  File "C:\Users\vrehm\OneDrive\Desktop\AIML Intern Expentor\Task 4.1\api.py", line 123, in predict
+    top3 = np.argsort(
+           ^^
+NameError: name 'np' is not defined
+2026-06-10 13:03:30 | INFO | api | Loading trained model...
+2026-06-10 13:03:30 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 13:03:31 | INFO | src.predict | Model loaded successfully
+2026-06-10 13:03:31 | INFO | api | API ready
+2026-06-10 13:12:48 | INFO | api | Loading trained model...
+2026-06-10 13:12:48 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 13:12:49 | INFO | src.predict | Model loaded successfully
+2026-06-10 13:12:49 | INFO | api | API ready
+2026-06-10 13:12:59 | INFO | api | Loading trained model...
+2026-06-10 13:12:59 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 13:13:00 | INFO | src.predict | Model loaded successfully
+2026-06-10 13:13:00 | INFO | api | API ready
+2026-06-10 13:13:31 | INFO | api | Loading trained model...
+2026-06-10 13:13:31 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 13:13:32 | INFO | src.predict | Model loaded successfully
+2026-06-10 13:13:32 | INFO | api | API ready
+2026-06-10 13:14:03 | INFO | api | Loading trained model...
+2026-06-10 13:14:03 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 13:14:04 | INFO | src.predict | Model loaded successfully
+2026-06-10 13:14:04 | INFO | api | API ready
+2026-06-10 13:14:13 | INFO | api | Loading trained model...
+2026-06-10 13:14:13 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 13:14:14 | INFO | src.predict | Model loaded successfully
+2026-06-10 13:14:14 | INFO | api | API ready
+2026-06-10 13:14:56 | INFO | api | Loading trained model...
+2026-06-10 13:14:56 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 13:14:56 | INFO | src.predict | Model loaded successfully
+2026-06-10 13:14:56 | INFO | api | API ready
+2026-06-10 13:15:06 | INFO | api | Loading trained model...
+2026-06-10 13:15:06 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 13:15:07 | INFO | src.predict | Model loaded successfully
+2026-06-10 13:15:07 | INFO | api | API ready
+2026-06-10 13:15:17 | INFO | api | Loading trained model...
+2026-06-10 13:15:17 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 13:15:17 | INFO | src.predict | Model loaded successfully
+2026-06-10 13:15:17 | INFO | api | API ready
+2026-06-10 13:15:48 | INFO | api | Loading trained model...
+2026-06-10 13:15:48 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 13:15:49 | INFO | src.predict | Model loaded successfully
+2026-06-10 13:15:49 | INFO | api | API ready
+2026-06-10 13:16:00 | INFO | api | Loading trained model...
+2026-06-10 13:16:00 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 13:16:00 | INFO | src.predict | Model loaded successfully
+2026-06-10 13:16:00 | INFO | api | API ready
+2026-06-10 13:16:27 | INFO | api | Loading trained model...
+2026-06-10 13:16:27 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 13:16:28 | INFO | src.predict | Model loaded successfully
+2026-06-10 13:16:28 | INFO | api | API ready
+2026-06-10 13:16:38 | INFO | api | Loading trained model...
+2026-06-10 13:16:38 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 13:16:38 | INFO | src.predict | Model loaded successfully
+2026-06-10 13:16:38 | INFO | api | API ready
+2026-06-10 13:16:49 | INFO | api | Loading trained model...
+2026-06-10 13:16:49 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 13:16:49 | INFO | src.predict | Model loaded successfully
+2026-06-10 13:16:49 | INFO | api | API ready
+2026-06-10 13:17:07 | INFO | api | Loading trained model...
+2026-06-10 13:17:07 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 13:17:08 | INFO | src.predict | Model loaded successfully
+2026-06-10 13:17:08 | INFO | api | API ready
+2026-06-10 13:17:52 | INFO | api | Loading trained model...
+2026-06-10 13:17:52 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 13:17:53 | INFO | src.predict | Model loaded successfully
+2026-06-10 13:17:53 | INFO | api | API ready
+2026-06-10 13:18:06 | INFO | api | Loading trained model...
+2026-06-10 13:18:06 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 13:18:06 | INFO | src.predict | Model loaded successfully
+2026-06-10 13:18:06 | INFO | api | API ready
+2026-06-10 13:18:30 | INFO | api | Loading trained model...
+2026-06-10 13:18:30 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 13:18:30 | INFO | src.predict | Model loaded successfully
+2026-06-10 13:18:30 | INFO | api | API ready
+2026-06-10 13:24:22 | INFO | __main__ | Application started
+2026-06-10 13:24:22 | INFO | src.data | Loading CIFAR-10 dataset
+2026-06-10 13:33:04 | INFO | api | Loading trained model...
+2026-06-10 13:33:04 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 13:33:27 | INFO | api | Loading trained model...
+2026-06-10 13:33:27 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 13:41:57 | INFO | api | Loading trained model...
+2026-06-10 13:41:57 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 13:45:10 | INFO | api | Loading trained model...
+2026-06-10 13:45:10 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 13:45:11 | INFO | __main__ | Application started
+2026-06-10 13:45:11 | INFO | src.data | Loading CIFAR10 and CIFAR100
+2026-06-10 13:46:05 | INFO | src.data | Train Shape: (62500, 32, 32, 3)
+2026-06-10 13:46:05 | INFO | src.data | Test Shape: (17500, 32, 32, 3)
+2026-06-10 13:46:05 | INFO | __main__ | No trained model found.
+2026-06-10 13:46:05 | INFO | src.train | Training pipeline started
+2026-06-10 13:46:05 | INFO | src.train | No existing model found. Creating new model.
+2026-06-10 13:46:05 | INFO | src.model | Building CNN model
+2026-06-10 13:46:06 | INFO | src.model | Model architecture created
+2026-06-10 13:46:06 | INFO | src.train | Model compilation complete
+2026-06-10 13:46:06 | INFO | src.train | Training started
+2026-06-10 14:06:57 | INFO | src.train | Model saved successfully
+2026-06-10 14:06:57 | INFO | src.train | Training history saved
+2026-06-10 14:06:57 | INFO | src.train | Model summary saved
+2026-06-10 14:06:57 | INFO | src.train | Training completed
+2026-06-10 14:06:57 | INFO | src.evaluate | Evaluation started
+2026-06-10 14:07:21 | INFO | src.evaluate | Classification report generated
+2026-06-10 14:07:21 | INFO | src.evaluate | Confusion matrix generated
+2026-06-10 14:07:26 | INFO | src.evaluate | Evaluation completed
+2026-06-10 14:07:26 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:07:27 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:07:46 | INFO | src.predict | Loading image: inputs/sample_image.jpg
+2026-06-10 14:07:46 | INFO | src.predict | Image shape: (32, 32, 3)
+2026-06-10 14:07:46 | INFO | src.predict | Running prediction
+2026-06-10 14:07:46 | INFO | src.predict | Entropy=0.5545
+2026-06-10 14:07:46 | INFO | src.unknown | Max confidence: 0.8609
+2026-06-10 14:07:46 | INFO | src.predict | Prediction=frog
+2026-06-10 14:07:46 | INFO | src.predict | Confidence=0.8609
+2026-06-10 14:13:59 | INFO | api | Loading trained model...
+2026-06-10 14:13:59 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:14:00 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:14:00 | INFO | api | API ready
+2026-06-10 14:15:03 | INFO | __main__ | Application started
+2026-06-10 14:15:03 | INFO | src.data | Loading CIFAR10 and CIFAR100
+2026-06-10 14:15:09 | INFO | src.data | Train Shape: (62500, 32, 32, 3)
+2026-06-10 14:15:09 | INFO | src.data | Test Shape: (17500, 32, 32, 3)
+2026-06-10 14:15:09 | INFO | __main__ | Using existing model.
+2026-06-10 14:15:09 | INFO | src.evaluate | Evaluation started
+2026-06-10 14:15:25 | INFO | src.evaluate | Classification report generated
+2026-06-10 14:15:25 | INFO | src.evaluate | Confusion matrix generated
+2026-06-10 14:15:26 | INFO | src.evaluate | Evaluation completed
+2026-06-10 14:15:26 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:15:27 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:15:41 | INFO | src.predict | Loading image: inputs/sample_image.jpg
+2026-06-10 14:15:41 | INFO | src.predict | Image shape: (32, 32, 3)
+2026-06-10 14:15:41 | INFO | src.predict | Running prediction
+2026-06-10 14:15:41 | INFO | src.predict | Entropy=0.5545
+2026-06-10 14:15:41 | INFO | src.unknown | Max confidence: 0.8609
+2026-06-10 14:15:41 | INFO | src.predict | Prediction=frog
+2026-06-10 14:15:41 | INFO | src.predict | Confidence=0.8609
+2026-06-10 14:15:41 | INFO | src.visualisation | Displaying sample images
+2026-06-10 14:38:57 | INFO | api | Loading trained model...
+2026-06-10 14:38:57 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:38:58 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:38:58 | INFO | api | API ready
+2026-06-10 14:46:47 | INFO | api | Loading trained model...
+2026-06-10 14:46:47 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:46:48 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:46:48 | INFO | api | API ready
+2026-06-10 14:47:11 | INFO | api | Loading trained model...
+2026-06-10 14:47:11 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:47:11 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:47:11 | INFO | api | API ready
+2026-06-10 14:47:21 | INFO | api | Loading trained model...
+2026-06-10 14:47:21 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:47:21 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:47:21 | INFO | api | API ready
+2026-06-10 14:47:32 | INFO | api | Loading trained model...
+2026-06-10 14:47:32 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:47:33 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:47:33 | INFO | api | API ready
+2026-06-10 14:47:47 | INFO | api | Loading trained model...
+2026-06-10 14:47:47 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:47:47 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:47:47 | INFO | api | API ready
+2026-06-10 14:48:09 | INFO | api | Loading trained model...
+2026-06-10 14:48:09 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:48:09 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:48:09 | INFO | api | API ready
+2026-06-10 14:48:34 | INFO | api | Loading trained model...
+2026-06-10 14:48:34 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:48:35 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:48:35 | INFO | api | API ready
+2026-06-10 14:48:44 | INFO | api | Loading trained model...
+2026-06-10 14:48:44 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:48:45 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:48:45 | INFO | api | API ready
+2026-06-10 14:48:52 | INFO | api | Loading trained model...
+2026-06-10 14:48:52 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:48:52 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:48:52 | INFO | api | API ready
+2026-06-10 14:49:00 | INFO | api | Loading trained model...
+2026-06-10 14:49:00 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:49:00 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:49:00 | INFO | api | API ready
+2026-06-10 14:49:07 | INFO | api | Loading trained model...
+2026-06-10 14:49:07 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:49:07 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:49:07 | INFO | api | API ready
+2026-06-10 14:50:14 | INFO | api | Loading trained model...
+2026-06-10 14:50:14 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:50:14 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:50:14 | INFO | api | API ready
+2026-06-10 14:50:20 | INFO | api | Loading trained model...
+2026-06-10 14:50:20 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:50:21 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:50:21 | INFO | api | API ready
+2026-06-10 14:51:05 | INFO | api | Loading trained model...
+2026-06-10 14:51:05 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:51:06 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:51:06 | INFO | api | API ready
+2026-06-10 14:51:13 | INFO | api | Loading trained model...
+2026-06-10 14:51:13 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:51:13 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:51:13 | INFO | api | API ready
+2026-06-10 14:51:20 | INFO | api | Loading trained model...
+2026-06-10 14:51:20 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:51:20 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:51:20 | INFO | api | API ready
+2026-06-10 14:51:41 | INFO | api | Loading trained model...
+2026-06-10 14:51:41 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:51:41 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:51:41 | INFO | api | API ready
+2026-06-10 14:51:48 | INFO | api | Loading trained model...
+2026-06-10 14:51:48 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:51:48 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:51:48 | INFO | api | API ready
+2026-06-10 14:51:56 | INFO | api | Loading trained model...
+2026-06-10 14:51:56 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:51:57 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:51:57 | INFO | api | API ready
+2026-06-10 14:52:17 | INFO | api | Loading trained model...
+2026-06-10 14:52:17 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:52:17 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:52:17 | INFO | api | API ready
+2026-06-10 14:52:25 | INFO | api | Loading trained model...
+2026-06-10 14:52:25 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:52:25 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:52:25 | INFO | api | API ready
+2026-06-10 14:52:32 | INFO | api | Loading trained model...
+2026-06-10 14:52:32 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 14:52:33 | INFO | src.predict | Model loaded successfully
+2026-06-10 14:52:33 | INFO | api | API ready
+2026-06-10 14:53:36 | INFO | __main__ | Application started
+2026-06-10 14:53:36 | INFO | src.data | Loading CIFAR10 and CIFAR100
+2026-06-10 15:02:00 | INFO | api | Loading trained model...
+2026-06-10 15:02:00 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 15:02:07 | INFO | api | Loading trained model...
+2026-06-10 15:02:07 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 15:02:16 | INFO | api | Loading trained model...
+2026-06-10 15:02:16 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 15:02:24 | INFO | api | Loading trained model...
+2026-06-10 15:02:24 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 15:02:28 | INFO | __main__ | Application started
+2026-06-10 15:02:28 | INFO | src.data | Loading CIFAR10 and CIFAR100
+2026-06-10 15:02:48 | INFO | api | Loading trained model...
+2026-06-10 15:02:48 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 15:02:48 | INFO | __main__ | Application started
+2026-06-10 15:02:48 | INFO | src.data | Loading CIFAR10 and CIFAR100
+2026-06-10 15:02:53 | INFO | src.data | Train Shape: (55000, 32, 32, 3)
+2026-06-10 15:02:53 | INFO | src.data | Test Shape: (11000, 32, 32, 3)
+2026-06-10 15:02:53 | INFO | __main__ | No trained model found.
+2026-06-10 15:02:53 | INFO | src.train | Training pipeline started
+2026-06-10 15:02:53 | INFO | src.train | No existing model found. Creating new model.
+2026-06-10 15:02:53 | INFO | src.model | Building CNN model
+2026-06-10 15:02:53 | INFO | src.model | Model architecture created
+2026-06-10 15:02:53 | INFO | src.train | Model compilation complete
+2026-06-10 15:02:53 | INFO | src.train | Training started
+2026-06-10 16:04:15 | INFO | src.train | Model saved successfully
+2026-06-10 16:04:15 | INFO | src.train | Training history saved
+2026-06-10 16:04:15 | INFO | src.train | Model summary saved
+2026-06-10 16:04:15 | INFO | src.train | Training completed
+2026-06-10 16:04:15 | INFO | src.evaluate | Evaluation started
+2026-06-10 16:04:25 | INFO | src.evaluate | Classification report generated
+2026-06-10 16:04:25 | INFO | src.evaluate | Confusion matrix generated
+2026-06-10 16:04:26 | INFO | src.evaluate | Evaluation completed
+2026-06-10 16:04:26 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 16:04:27 | INFO | src.predict | Model loaded successfully
+2026-06-10 16:04:35 | INFO | src.predict | Loading image: inputs/sample_image.jpg
+2026-06-10 16:04:35 | INFO | src.predict | Image shape: (32, 32, 3)
+2026-06-10 16:04:35 | INFO | src.predict | Running prediction
+2026-06-10 16:04:35 | INFO | src.predict | Entropy=1.7411
+2026-06-10 16:04:35 | INFO | src.unknown | Max confidence: 0.3019
+2026-06-10 16:04:35 | INFO | src.predict | Prediction=unknown
+2026-06-10 16:04:35 | INFO | src.predict | Confidence=0.3019
+2026-06-10 16:04:35 | INFO | src.visualisation | Displaying sample images
+2026-06-10 17:20:48 | INFO | api | Loading trained model...
+2026-06-10 17:20:48 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 17:20:49 | INFO | src.predict | Model loaded successfully
+2026-06-10 17:20:49 | INFO | api | API ready
+2026-06-10 17:20:56 | INFO | api | Loading trained model...
+2026-06-10 17:20:56 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 17:20:56 | INFO | src.predict | Model loaded successfully
+2026-06-10 17:20:56 | INFO | api | API ready
+2026-06-10 17:41:30 | INFO | __main__ | Application started
+2026-06-10 17:41:30 | INFO | src.data | Loading CIFAR10 and CIFAR100
+2026-06-10 17:41:36 | INFO | src.data | Train Shape: (55000, 32, 32, 3)
+2026-06-10 17:41:36 | INFO | src.data | Test Shape: (11000, 32, 32, 3)
+2026-06-10 17:41:36 | INFO | __main__ | Using existing model.
+2026-06-10 17:41:36 | INFO | src.evaluate | Evaluation started
+2026-06-10 17:41:45 | INFO | src.evaluate | Classification report generated
+2026-06-10 17:41:45 | INFO | src.evaluate | Confusion matrix generated
+2026-06-10 17:41:46 | INFO | src.evaluate | Evaluation completed
+2026-06-10 17:41:46 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-10 17:41:46 | INFO | src.predict | Model loaded successfully
+2026-06-10 17:41:54 | INFO | src.predict | Loading image: inputs/sample_image.jpg
+2026-06-10 17:41:54 | INFO | src.predict | Image shape: (32, 32, 3)
+2026-06-10 17:41:54 | INFO | src.predict | Running prediction
+2026-06-10 17:41:54 | INFO | src.predict | Entropy=1.7411
+2026-06-10 17:41:54 | INFO | src.unknown | Max confidence: 0.3019
+2026-06-10 17:41:54 | INFO | src.predict | Prediction=unknown
+2026-06-10 17:41:54 | INFO | src.predict | Confidence=0.3019
+2026-06-10 17:41:54 | INFO | src.visualisation | Displaying sample images
+2026-06-11 10:13:56 | INFO | api | Loading trained model...
+2026-06-11 10:13:56 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-11 10:13:57 | INFO | src.predict | Model loaded successfully
+2026-06-11 10:13:57 | INFO | api | API ready
+2026-06-11 11:48:17 | INFO | __main__ | Application started
+2026-06-11 11:48:17 | INFO | src.data | Loading CIFAR10 and CIFAR100
+2026-06-11 11:48:26 | INFO | src.data | Train Shape: (55000, 32, 32, 3)
+2026-06-11 11:48:26 | INFO | src.data | Test Shape: (11000, 32, 32, 3)
+2026-06-11 11:48:26 | INFO | __main__ | Using existing model.
+2026-06-11 11:48:26 | INFO | src.evaluate | Evaluation started
+2026-06-11 11:48:37 | INFO | src.evaluate | Classification report generated
+2026-06-11 11:48:37 | INFO | src.evaluate | Confusion matrix generated
+2026-06-11 11:48:38 | INFO | src.evaluate | Evaluation completed
+2026-06-11 11:48:38 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-11 11:48:39 | INFO | src.predict | Model loaded successfully
+2026-06-11 11:48:48 | INFO | src.predict | Loading image: inputs/sample_image.jpg
+2026-06-11 11:48:48 | INFO | src.predict | Image shape: (32, 32, 3)
+2026-06-11 11:48:48 | INFO | src.predict | Running prediction
+2026-06-11 11:48:49 | INFO | src.predict | Entropy=1.7411
+2026-06-11 11:48:49 | INFO | src.unknown | Max confidence: 0.3019
+2026-06-11 11:48:49 | INFO | src.predict | Prediction=unknown
+2026-06-11 11:48:49 | INFO | src.predict | Confidence=0.3019
+2026-06-11 11:48:49 | INFO | src.visualisation | Displaying sample images
+2026-06-11 11:48:58 | INFO | src.visualisation | Displaying correct predictions
+2026-06-11 11:49:04 | INFO | src.visualisation | Displaying errors
+2026-06-11 11:49:09 | INFO | src.visualisation | Plotting training history
+2026-06-11 11:49:12 | INFO | src.visualisation | Plotting accuracy and loss
+2026-06-11 11:49:18 | INFO | src.error | Error analysis started
+2026-06-11 11:49:30 | INFO | src.error | Misclassified images: 3414
+2026-06-11 11:56:20 | INFO | __main__ | Application started
+2026-06-11 11:56:20 | INFO | src.data | Loading CIFAR10 and CIFAR100
+2026-06-11 11:56:28 | INFO | src.data | Train Shape: (55000, 32, 32, 3)
+2026-06-11 11:56:28 | INFO | src.data | Test Shape: (11000, 32, 32, 3)
+2026-06-11 11:56:28 | INFO | __main__ | Using existing model.
+2026-06-11 11:56:28 | INFO | src.evaluate | Evaluation started
+2026-06-11 11:56:41 | INFO | src.evaluate | Classification report generated
+2026-06-11 11:56:41 | INFO | src.evaluate | Confusion matrix generated
+2026-06-11 11:56:42 | INFO | src.evaluate | Evaluation completed
+2026-06-11 11:56:42 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-11 11:56:42 | INFO | src.predict | Model loaded successfully
+2026-06-11 11:56:51 | INFO | src.predict | Loading image: inputs/sample_image.jpg
+2026-06-11 11:56:52 | INFO | src.predict | Image shape: (32, 32, 3)
+2026-06-11 11:56:52 | INFO | src.predict | Running prediction
+2026-06-11 11:56:52 | INFO | src.predict | Entropy=1.7411
+2026-06-11 11:56:52 | INFO | src.unknown | Max confidence: 0.3019
+2026-06-11 11:56:52 | INFO | src.predict | Prediction=unknown
+2026-06-11 11:56:52 | INFO | src.predict | Confidence=0.3019
+2026-06-11 11:56:52 | INFO | src.visualisation | Displaying sample images
+2026-06-11 11:56:55 | INFO | src.visualisation | Displaying correct predictions
+2026-06-11 11:56:58 | INFO | src.visualisation | Displaying errors
+2026-06-11 11:57:04 | INFO | src.visualisation | Plotting training history
+2026-06-11 11:57:06 | INFO | src.visualisation | Plotting accuracy and loss
+2026-06-11 11:57:09 | INFO | src.error | Error analysis started
+2026-06-11 11:57:19 | INFO | src.error | Misclassified images: 3414
+2026-06-11 11:57:25 | INFO | src.error | Error visualization completed
+2026-06-11 11:57:25 | INFO | __main__ | Application finished
+2026-06-11 12:01:30 | INFO | api | Loading trained model...
+2026-06-11 12:01:30 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-11 12:01:31 | INFO | src.predict | Model loaded successfully
+2026-06-11 12:01:31 | INFO | api | API ready
+2026-06-11 12:01:37 | INFO | api | Loading trained model...
+2026-06-11 12:01:37 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-11 12:01:37 | INFO | src.predict | Model loaded successfully
+2026-06-11 12:01:37 | INFO | api | API ready
+2026-06-11 12:02:30 | INFO | api | Received file: sample_image.jpg
+2026-06-11 12:02:30 | INFO | src.predict | Loading image: C:\Users\vrehm\AppData\Local\Temp\tmp5fnms7m2.jpg
+2026-06-11 12:02:30 | INFO | src.predict | Image shape: (32, 32, 3)
+2026-06-11 12:02:30 | INFO | src.predict | Running prediction
+2026-06-11 12:02:31 | INFO | src.predict | Entropy=1.7411
+2026-06-11 12:02:31 | INFO | src.unknown | Max confidence: 0.3019
+2026-06-11 12:02:31 | INFO | src.predict | Prediction=unknown
+2026-06-11 12:02:31 | INFO | src.predict | Confidence=0.3019
+2026-06-11 12:02:31 | INFO | api | Prediction=unknown
+2026-06-12 12:27:56 | INFO | api | Loading trained model...
+2026-06-12 12:27:56 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-12 12:27:56 | INFO | src.predict | Model loaded successfully
+2026-06-12 12:27:56 | INFO | api | API ready
+2026-06-12 12:29:26 | INFO | api | Loading trained model...
+2026-06-12 12:29:26 | INFO | src.predict | Loading model from models/cifar10_cnn.keras
+2026-06-12 12:29:28 | INFO | src.predict | Model loaded successfully
+2026-06-12 12:29:28 | INFO | api | API ready
+2026-06-12 13:13:43 | INFO | __main__ | Application started
+2026-06-12 13:13:43 | INFO | src.data | Loading CIFAR10 and CIFAR100
+2026-06-12 13:13:49 | INFO | src.data | Train Shape: (55000, 32, 32, 3)
+2026-06-12 13:13:49 | INFO | src.data | Test Shape: (11000, 32, 32, 3)
+2026-06-12 13:13:49 | INFO | __main__ | No trained model found.
+2026-06-12 13:13:49 | INFO | src.train | Training pipeline started
+2026-06-12 13:13:49 | INFO | src.train | No existing model found. Creating new model.
+2026-06-12 13:13:49 | INFO | src.model | Building ResNet18
+2026-06-12 13:13:50 | INFO | src.model | ResNet18 created successfully
+2026-06-12 13:13:50 | INFO | src.train | Model compilation complete
+2026-06-12 13:14:24 | INFO | __main__ | Application started
+2026-06-12 13:14:24 | INFO | src.data | Loading CIFAR10 and CIFAR100
+2026-06-12 13:14:30 | INFO | src.data | Train Shape: (55000, 32, 32, 3)
+2026-06-12 13:14:30 | INFO | src.data | Test Shape: (11000, 32, 32, 3)
+2026-06-12 13:14:30 | INFO | __main__ | No trained model found.
+2026-06-12 13:14:30 | INFO | src.train | Training pipeline started
+2026-06-12 13:14:30 | INFO | src.train | No existing model found. Creating new model.
+2026-06-12 13:14:30 | INFO | src.model | Building ResNet18
+2026-06-12 13:14:31 | INFO | src.model | ResNet18 created successfully
+2026-06-12 13:14:31 | INFO | src.train | Model compilation complete
+2026-06-12 13:14:31 | INFO | src.train | Training started
