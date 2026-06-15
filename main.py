@@ -1,5 +1,6 @@
 import os
 os.environ['TF_ENABLE_ONEDNN_OPTS'] = '0'
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 from src.data import load_dataset
 from src.train import train
@@ -30,40 +31,11 @@ logger.info("Application started")
 X_train, X_test, y_train, y_test = load_dataset()
 
 #Train Model
-
-model_exists = Path(
-    "models/resnet_cifar10.keras"
-).exists()
-
-if not model_exists:
-
-    logger.info(
-        "No trained model found."
-    )
-
-    history = train(
-        X_train,
-        y_train,
-        epochs=35
-    )
-
-elif False:
-
-    logger.info(
-        "Continuing training."
-    )
-
-    history = train(
-        X_train,
-        y_train,
-        epochs=5
-    )
-
-else:
-
-    logger.info(
-        "Using existing model."
-    )
+history = train(
+    X_train,
+    y_train,
+    target_epochs=20
+)
 
 # Evaluate Model
 

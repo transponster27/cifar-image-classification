@@ -1120,3 +1120,38 @@ NameError: name 'np' is not defined
 2026-06-12 13:14:31 | INFO | src.model | ResNet18 created successfully
 2026-06-12 13:14:31 | INFO | src.train | Model compilation complete
 2026-06-12 13:14:31 | INFO | src.train | Training started
+2026-06-15 10:39:29 | INFO | api | Loading trained model...
+2026-06-15 10:39:29 | INFO | src.predict | Loading model from models/resnet_cifar10.keras
+2026-06-15 10:39:58 | INFO | __main__ | Application started
+2026-06-15 10:39:58 | INFO | src.data | Loading CIFAR10 and CIFAR100
+2026-06-15 10:40:05 | INFO | src.data | Train Shape: (55000, 32, 32, 3)
+2026-06-15 10:40:05 | INFO | src.data | Test Shape: (11000, 32, 32, 3)
+2026-06-15 10:40:06 | INFO | __main__ | No trained model found.
+2026-06-15 10:40:06 | INFO | src.train | Training pipeline started
+2026-06-15 10:40:06 | INFO | src.train | No existing model found. Creating new model.
+2026-06-15 10:40:06 | INFO | src.model | Building ResNet18
+2026-06-15 10:40:06 | INFO | src.model | ResNet18 created successfully
+2026-06-15 10:40:06 | INFO | src.train | Model compilation complete
+2026-06-15 10:40:06 | INFO | src.train | Training started
+2026-06-15 11:27:30 | INFO | __main__ | Application started
+2026-06-15 11:27:30 | INFO | src.data | Loading CIFAR10 and CIFAR100
+2026-06-15 11:27:41 | INFO | src.data | Train Shape: (55000, 32, 32, 3)
+2026-06-15 11:27:41 | INFO | src.data | Test Shape: (11000, 32, 32, 3)
+2026-06-15 11:27:41 | INFO | __main__ | No trained model found.
+2026-06-15 11:27:42 | INFO | src.train | Training pipeline started
+2026-06-15 11:27:42 | INFO | src.train | No existing model found. Creating new model.
+2026-06-15 11:27:42 | INFO | src.model | Building ResNet18
+2026-06-15 11:27:43 | INFO | src.model | ResNet18 created successfully
+2026-06-15 11:27:43 | INFO | src.train | Model compilation complete
+2026-06-15 11:27:43 | INFO | src.train | Training started
+2026-06-15 12:41:17 | INFO | __main__ | Application started
+2026-06-15 12:41:17 | INFO | src.data | Loading CIFAR10 and CIFAR100
+2026-06-15 12:41:23 | INFO | src.data | Train Shape: (55000, 32, 32, 3)
+2026-06-15 12:41:23 | INFO | src.data | Test Shape: (11000, 32, 32, 3)
+2026-06-15 12:41:23 | INFO | src.train | Training pipeline started
+2026-06-15 12:41:23 | INFO | src.train | Starting from scratch
+2026-06-15 12:41:23 | INFO | src.train | No model found. Creating new one...
+2026-06-15 12:41:23 | INFO | src.model | Building ResNet18
+2026-06-15 12:41:23 | INFO | src.model | ResNet18 created successfully
+2026-06-15 12:41:23 | INFO | src.train | Model compiled
+2026-06-15 12:41:23 | INFO | src.train | Training started
